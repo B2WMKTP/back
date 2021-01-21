@@ -86,6 +86,6 @@ The name of the columns in the rowset don’t matter, but their order does.
 - See the directory task2 to solve the second question
 - Create a file and put the result of the query
 
-Create a Fork of this project and send us a pull request
+Send to us your git url
 
 
